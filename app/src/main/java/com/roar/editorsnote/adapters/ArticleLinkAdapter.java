@@ -97,6 +97,7 @@ public class ArticleLinkAdapter extends RecyclerView.Adapter<ArticleLinkAdapter.
         holder.mHeadline.setTag(mArticleLinks.get(position).getLink());
     }
 
+
     // Return the size of your dataset (invoked by the layout manager)
     @Override
     public int getItemCount() {
