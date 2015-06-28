@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EditorsNote</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hindu">Hindu</string>
+    <string name="ht">Hindustan Times</string>
+    <string name="et">Economic Times</string>
+    <string name="toi">Times of India</string>
+    <string name="ie">Indian Express</string>
+</resources>
