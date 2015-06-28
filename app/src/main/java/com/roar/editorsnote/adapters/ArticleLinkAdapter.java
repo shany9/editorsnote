@@ -94,7 +94,6 @@ public class ArticleLinkAdapter extends RecyclerView.Adapter<ArticleLinkAdapter.
         holder.mHeadline.setText(mArticleLinks.get(position).getHeading());
         holder.mTimestamp.setText(mArticleLinks.get(position).getTimestamp());
 
-
         holder.mHeadline.setTag(mArticleLinks.get(position).getLink());
     }
 
